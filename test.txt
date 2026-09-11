@@ -1,0 +1,6 @@
+My test statement.
+This message is from GitHub.
+The third line from the local machine. 
+Ok we did accept it. 
+We have a new message from GitHub. 
+New message from the user branch
